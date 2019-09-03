@@ -9,4 +9,4 @@ Version 2.0 is uploaded on 10/6/2018. Both efficiency and effectiveness have bee
 
 Version 3.0 is uploaded on 21/9/2018. Both efficiency and effectiveness have been improved, and it takes less than 10s to handle a mega pixel image.
 
-Version 3.0 is uploaded on 26/12/2018. 
+Version 4.0 is uploaded on 26/12/2018. 
